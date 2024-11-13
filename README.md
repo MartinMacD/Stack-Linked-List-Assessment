@@ -1,6 +1,6 @@
-# Stack/Linked-List-Assessment
+# Stack/Linked-List-Demo
 
-Created as an assessment for college, using Java and IntelliJ. 
+Created for college, using Java and IntelliJ. 
 Covers the use of stacks and linked lists. 
 
 Demonstrates use of: 
